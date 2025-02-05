@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0d53279-1e36-41f6-a622-9b181b83627d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuples and dictionaries.py" afterDir="false" />
+    <list default="true" id="e0d53279-1e36-41f6-a622-9b181b83627d" name="Changes" comment="assignment">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "musahandson568"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/musahandson568/automatic-octo-fiesta.git",
+    "accountId": "995b0f68-5af0-42ae-b265-8f60574a313a"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Pythonn functions.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -39,11 +48,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Object oriented programming lesson.executor": "Run",
+    "Python.Pythonn functions.executor": "Run",
     "Python.main.executor": "Run",
     "Python.tuples and dictionaries.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/user/PycharmProjects/PythonProject3",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
@@ -69,6 +80,51 @@
       <option name="presentableId" value="Default" />
       <updated>1738535095535</updated>
     </task>
+    <task id="LOCAL-00001" summary="assignment">
+      <option name="closed" value="true" />
+      <created>1738719992248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738719992248</updated>
+    </task>
+    <task id="LOCAL-00002" summary="assignment">
+      <option name="closed" value="true" />
+      <created>1738720166216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738720166216</updated>
+    </task>
+    <task id="LOCAL-00003" summary="assignment">
+      <option name="closed" value="true" />
+      <created>1738720277820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738720277820</updated>
+    </task>
+    <task id="LOCAL-00004" summary="assignment">
+      <option name="closed" value="true" />
+      <created>1738832107992</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738832107992</updated>
+    </task>
+    <task id="LOCAL-00005" summary="assignment">
+      <option name="closed" value="true" />
+      <created>1738832138023</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738832138023</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment" />
   </component>
 </project>

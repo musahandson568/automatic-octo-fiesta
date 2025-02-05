@@ -56,25 +56,26 @@
 # print(car.get("chasis number"))
 # print(car.get("model"))
 
-#assignment
+#assignment of tuples
 names=("Peter","Kendy","Elsie","Kelsie","Wadsworth")
-user_name=input("Enter user name :").capitalize()
-if user_name  in names:
-    print(f"{user_name} is at {names.index(user_name)}")
-else:
-    print("Invalid User name.Enter a valid user name.")
-
-score={"Peter":"B",
+# user_name=input("Enter a name :").capitalize()
+# if user_name  in names:
+#     print(f"{user_name} is at index {names.index(user_name)}.")
+# else:
+#     print("Name not found!")
+#assignment on dictionaries.dictionaries help store data to recall when required
+scores={"Peter":"B",
 "Kendy":"A-",
 "Elsie":"B+",
 "Kelsie":"A",
 "Wadsworth":"C+"}
 # scored grade :dict{"name"})
-user_score=dict["Peter":"B","Kendy":"A-","Elsie":"B+","Kelsie":"A","Wadsworth":"C+"]
-for user_score in score:
-    print(f"{user_name} scored a {(user_score)}")
-print(score)
-
+student_name=input("Enter a student name :").capitalize()
+#check if student exists in our dictionary
+if student_name in scores:
+    print(f"{student_name}'s grade is :{scores[student_name]}")
+else:
+    print("Student is not found.")
 
 
 
