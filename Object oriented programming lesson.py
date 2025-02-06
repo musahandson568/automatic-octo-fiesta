@@ -22,20 +22,20 @@
 
 #four pillars of OOP
 #data hiding-restriction direct access to data(Encapsulation)
-# class BankAccount:
-#     def __init__(self,account_number,balance,name,):
-#         self.account_number=account_number
-#         self.balance=balance
-#         self.name=name
-#     def deposit(self,amount):
-#         self.balance+=amount
-#         print(f"Deposited {amount} is Successsful.\nNew balance : {self.balance}")
-#     def get_balance(self):
-#         return self.balance
-# account=BankAccount("12365400001",154500,"Handson Musa")
-# account.deposit(450000)
-# print(self.name)
-# print(account.get_balance())
+class BankAccount:
+    def __init__(self,account_number,balance,name,):
+        self.account_number=account_number
+        self.balance=balance
+        self.name=name
+    def deposit(self,amount):
+        self.balance+=amount
+        print(f"Deposited {amount} is Successsful.\nNew balance : {self.balance}")
+    def get_balance(self):
+        return self.balance
+account=BankAccount("12365400001",154500,"Handson Musa")
+account.deposit(450000)
+print(self.name)
+print(account.get_balance())
 
 #Inheritance or code reusability
 class Animal:
